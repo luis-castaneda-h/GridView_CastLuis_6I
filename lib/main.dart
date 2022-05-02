@@ -12,7 +12,7 @@ class VeterinariaApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Ej. GridView', //Pestaña en web
         theme: ThemeData(
-          primarySwatch: Colors.green,
+          primarySwatch: Colors.tealAccent,
         ), // Tema color global
         home: const PaginaInicial());
   }
